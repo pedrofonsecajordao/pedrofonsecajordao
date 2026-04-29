@@ -7,7 +7,6 @@ Me chamo Pedro Fonseca Jordão, tenho 20 anos e sou natural de Santo André - SP
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-fonsecajordao/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#0A66C2;&#0A66C2;&#0A66C2;&#0A66C2;&#0A66C2;
 
 ---  
 ### 🔧 Linguagens e ferramentas
