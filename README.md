@@ -14,15 +14,15 @@ Me chamo Pedro Fonseca Jordão, tenho 20 anos e sou natural de Santo André - SP
 ### 🛠 Linguagens e ferramentas
 
 <a href="https://github.com/pedrofonsecajordao?tab=repositories&q=&type=&language=python" target="_blank">
-  <img align="left" alt="Python" title="Meus projetos em Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="Python" title="Meus projetos em Python" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </a>
 
 <a href="https://github.com/pedrofonsecajordao?tab=repositories&q=&type=&language=java" target="_blank">
-  <img align="left" alt="Java" title="Meus projetos em Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="left" alt="Java" title="Meus projetos em Java" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </a>
 
 <a href="https://github.com/pedrofonsecajordao" target="_blank">
-  <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="left" alt="Linux" title="Linux" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </a>
 
 <br/><br/>
