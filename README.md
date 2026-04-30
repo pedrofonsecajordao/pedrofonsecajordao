@@ -29,8 +29,6 @@ Me chamo Pedro Fonseca Jordão, tenho 20 anos e sou natural de Santo André - SP
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
