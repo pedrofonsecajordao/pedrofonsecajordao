@@ -33,14 +33,14 @@ Me chamo Pedro Fonseca Jordão, tenho 20 anos e sou natural de Santo André - SP
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=pedrofonsecajordao&show_icons=true&theme=react&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api?username=pedrofonsecajordao&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&locale=pt-br" 
       />
     </td>
     <td>
       <img 
         alt="Tecnologias" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofonsecajordao&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofonsecajordao&layout=compact&custom_title=Tecnologias&title_color=0077B5&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=9" 
       />
     </td>
   </tr>
