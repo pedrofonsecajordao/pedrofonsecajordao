@@ -1,6 +1,4 @@
-# 🥷 Pedro Fonseca Jordao
-
-**`Estudante de Segurança da Informação`**
+# 🥷 Estudante de Segurança da Informação
 
 Me chamo Pedro Fonseca Jordão, tenho 20 anos e sou natural de Santo André - SP. Atualmente, estou cursando Segurança da Informação na Facatec São Caetano do Sul (Fatec SCS). Sou entusiasta da tecnologia e busco constantemente me aprimorar, possuindo certificações em AWS, Google Cloud e Azure AI. Compartilho meus projetos e códigos, como aplicações em Java e Python integradas a bancos de dados, através do meu GitHub, focado em aplicar a lógica de programação e a segurança na prática.
 
